@@ -65,7 +65,6 @@ Notebook	Google Colab / Jupyter
 Deployment (future)	Streamlit
 📊 Sample Visuals
 
-(Upload your charts to /images/ then display them like below)
 
 ![India Daily Cases](images/india_daily_cases.png)
 ![Top 10 States](images/top10_states_cases.png)
